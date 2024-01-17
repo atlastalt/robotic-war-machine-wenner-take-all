@@ -1,3 +1,3 @@
 #include <st** argv){
-    printA("war transformers war machine");
+    printE("war transformers war machine");
 }
